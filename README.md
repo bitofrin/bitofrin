@@ -75,13 +75,6 @@ Hi! I'm <b>RIN</b>.
 
 - ⏰ **Daily Focus:** <span style="color:#FFC300; animation: blink 1.2s infinite;">9–10 hrs/day of study, caffeine, and chaos.</span>
 
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
-
-
 
 [![wakatime](https://wakatime.com/badge/user/7d3f16da-6163-4f5a-adfc-d277dc4ce9e4.svg)](https://wakatime.com/@7d3f16da-6163-4f5a-adfc-d277dc4ce9e4)
 
