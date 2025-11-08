@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!;I'm+RIN+💻&color=FF6B6B,FFD93D,6BCB77,4D96FF,B983FF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!;I'm+BITOFRIN+💻&color=FF6B6B,FFD93D,6BCB77,4D96FF,B983FF" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,85 +19,43 @@
 </p>
 
 ---
-<h3 align="center">🛠 Languages & Tools</h3>
 
-<div style="display:flex; justify-content: center; flex-wrap: wrap; gap:60px; margin-top:20px; margin-bottom:20px;">
+<h3 align="left">🛠 Languages & Tools</h3>
+<div align="left">
 
-  <!-- LOW LEVEL -->
-  <div style="text-align:center; min-width:200px;">
-    <p>⚙️ <b>LOW LEVEL</b></p>
-    <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-      <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="C logo" />
-      <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="45" alt="Verilog logo" />
-      <img src="https://cdn-icons-png.flaticon.com/256/1088/1088605.png" height="45" alt="Assembly logo" />
-    </div>
-  </div>
+<p>⚙️ <b>LOW LEVEL</b></p>
+<img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="C logo" />
+<img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="45" alt="Verilog logo" />
+<img src="https://cdn-icons-png.flaticon.com/256/1088/1088605.png" height="45" alt="Assembly logo" />
 
-  <!-- DESKTOP -->
-  <div style="text-align:center; min-width:200px;">
-    <p>🖥️ <b>DESKTOP</b></p>
-    <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java logo" />
-      <img src="https://www.jbang.dev/assets/images/icon.png" height="45" alt="JBang logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman logo" />
-    </div>
-  </div>
+<p>🖥️ <b>DESKTOP</b></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java logo" />
+<img src="https://www.jbang.dev/assets/images/icon.png" height="45" alt="JBang logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman logo" />
 
-  <!-- SCRIPTING -->
-  <div style="text-align:center; min-width:200px;">
-    <p>📜 <b>SCRIPTING</b></p>
-    <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="Bash logo" />
-    </div>
-  </div>
 
-  <!-- TOOLS / OS -->
-  <div style="text-align:center; min-width:200px;">
-    <p>🛠 <b>TOOLS / OS</b></p>
-    <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-      <img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux logo" />
-      <img src="https://cdn.simpleicons.org/neovim/57A143" height="45" alt="Neovim logo" />
-      <img src="https://cdn.simpleicons.org/bspwm/00FFFF" height="45" alt="bspwm logo" />
-    </div>
-  </div>
+<p>📜 <b>SCRIPTING</b></p>
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="Bash logo" />
 
+<p>🛠 <b>TOOLS / OS</b></p>
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux logo" />
+<img src="https://cdn.simpleicons.org/neovim/57A143" height="45" alt="Neovim logo" />
+<img src="https://cdn.simpleicons.org/bspwm/00FFFF" height="45" alt="bspwm logo" />
 </div>
-
 
 ---
 
-<h3 align="center">🔥 My Learning Stats</h3>
+<h3 align="left">🔥 My Learning Stats</h3>
+<div align="left">
 
-<div style="display:flex; justify-content: center; flex-wrap: wrap; gap:40px; margin-top:20px; margin-bottom:20px;">
+- 📚 **Learning Progress:** <span style="color:#FF0000">▰▱▱▱▱▱▱▱▱▱</span> 1% — just getting started, still loading knowledge...
 
-  <!-- Learning Progress -->
-  <div style="text-align:center; min-width:200px;">
-    <p>📚 <b>Learning Progress</b></p>
-    <span style="color:#FF0000; font-size:18px;">▰▱▱▱▱▱▱▱▱▱</span>
-    <p>1% — just getting started, still loading knowledge...</p>
-  </div>
+- 🏆 <b>Projects Completed:</b> <span style="color:#FFB347">2+</span>  
 
-  <!-- Projects Completed -->
-  <div style="text-align:center; min-width:200px;">
-    <p>🏆 <b>Projects Completed</b></p>
-    <span style="color:#FFB347; font-size:18px;">2+</span>
-  </div>
 
-  <!-- Daily Focus -->
-  <div style="text-align:center; min-width:200px;">
-    <p>⏰ <b>Daily Focus</b></p>
-    <span style="color:#FFC300; animation: blink 1.2s infinite;">9–10 hrs/day of study, caffeine, and controlled chaos</span>
-  </div>
-
-  <!-- Weekend Focus -->
-  <div style="text-align:center; min-width:200px;">
-    <p>🕒 <b>Weekend Focus</b></p>
-    <span style="color:#FF0000; animation: blink 1.2s infinite;">18 hrs/day of deep work and learning</span>
-  </div>
-
-</div>
-
+- ⏰ <b>Daily Focus:</b> <span style="color:#FFC300; animation: blink 1.2s infinite;">9–10 hrs/day of study, caffeine, and controlled chaos</span>
+- 🕒 <b>Weekend Focus:</b> <span style="color:#FF0000; animation: blink 1.2s infinite;">18 hrs/day of deep work and learning</span>
 
 
 
