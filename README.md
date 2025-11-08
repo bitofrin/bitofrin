@@ -1,25 +1,22 @@
-<div style="display:flex; justify-content: center; align-items: center; flex-wrap: wrap; gap:10px; margin-bottom:30px;">
-
-  <!-- Teks About Me -->
-  <div style="flex:1; min-width:360px;">
-<p>🔭 Focused on low-level computing & hardware design</p>
-<p>🧠 Exploring neuroscience, psychology & philosophy</p>
-<p>📚 Study hard, study smart, study precisely</p>
-<p>🌐 Fluent in English, Korean, Indonesian & German</p>
-  </div>
-
-  <!-- GIF -->
-  <div style="flex:1; min-width:300px; text-align:center;">
-    <img height="270" src="https://media1.tenor.com/m/Zo3o8i7deTkAAAAd/waguri-the-fragrant-flower-blooms-with-dignity.gif" alt="waguri gif"/>
-  </div>
-
+<div align="center">
+  <img height="270" src="https://media1.tenor.com/m/Zo3o8i7deTkAAAAd/waguri-the-fragrant-flower-blooms-with-dignity.gif" alt="waguri gif"/>
 </div>
 
-<!-- Typing SVG tetap center di bawah -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!;I'm+RIN+💻&color=FF6B6B,FFD93D,6BCB77,4D96FF,B983FF" alt="Typing SVG" />
 </div>
 
+---
+
+
+
+- 🔭 Focused on **low-level computing and hardware design**.
+- 🧠 Deeply studying **neuroscience**, psychology, and philosophy for pure knowledge.  
+- 📚 Committed to rigorous learning: 6 hrs/day Mon–Fri, 15 hrs/day Sat–Sun (60 hrs/week).  
+- 🌐 Fluent in <b>English</b>, <b>Korean</b>, <b>Indonesian</b>, and <b>German</b>.  
+- 💡 Continuously sharpening skills in programming, frameworks, and hardware-software integration.
+
+</p>
 
 ---
 <h3 align="center">🛠 Languages & Tools</h3>
