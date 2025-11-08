@@ -12,7 +12,6 @@
 
 - 🔭 Focused on **low-level computing and hardware design**.
 - 🧠 Deeply studying **neuroscience**, psychology, and philosophy for pure knowledge.  
-- 📚 Committed to rigorous learning: 6 hrs/day Mon–Fri, 15 hrs/day Sat–Sun (60 hrs/week).  
 - 🌐 Fluent in <b>English</b>, <b>Korean</b>, <b>Indonesian</b>, and <b>German</b>.  
 - 💡 Continuously sharpening skills in programming, frameworks, and hardware-software integration.
 
