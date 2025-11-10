@@ -19,23 +19,19 @@
 <div align="left">
 
 ### ⚙️ Low-Level
-<img src="https://cdn.simpleicons.org/c/A8B9CC" height="70" alt="C logo" />
-<img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="70" alt="Verilog logo" />
-<img src="https://cdn-icons-png.flaticon.com/256/1088/1088605.png" height="70" alt="Assembly logo" />
 
-### 🖥️ Frontend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5 logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3 logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React logo" />
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://img.icons8.com/color/512/c-programming.png" height="70" alt="C logo" />
+    <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="70" alt="Verilog logo" />
+    <img src="https://cdn-icons-png.flaticon.com/256/1088/1088605.png" height="70" alt="Assembly logo" />
+    <img src="https://img.icons8.com/color/512/linux-terminal.png" height="70" alt="Bash logo" />
+    <img src="https://img.icons8.com/color/512/linux.png" height="70" alt="Linux logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="70" alt="Neovim logo" />
+    <img src="https://img.icons8.com/color/512/python.png" height="70" alt="Python logo" />
+    <img src="https://img.icons8.com/color/512/rust.png" height="70" alt="Rust logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="70" alt="CMake logo" />
+</div>
 
-### 📜 Scripting
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="70" alt="Bash logo" />
-
-### 🛠 Tools / OS
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="70" alt="Linux logo" />
-<img src="https://cdn.simpleicons.org/neovim/57A143" height="70" alt="Neovim logo" />
 
 ---
 
@@ -47,12 +43,11 @@
 - ⏰ **Daily Focus:** <span style="color:#FFC300; animation: blink 1.2s infinite;">9–10 hrs/day of study, caffeine, and controlled chaos</span>  
 - 🕒 **Weekend Focus:** <span style="color:#FF0000; animation: blink 1.2s infinite;">18 hrs/day of deep work and learning</span>  
 
-[![wakatime](https://wakatime.com/badge/user/7d3f16da-6163-4f5a-adfc-d277dc4ce9e4.svg)](https://wakatime.com/@7d3f16da-6163-4f5a-adfc-d277dc4ce9e4)  
-![Visitors](https://komarev.com/ghpvc/?username=bitofrin&color=blueviolet)
+[![wakatime](https://wakatime.com/badge/user/704b19ea-6702-4e9f-b77c-981a547cae1e.svg)](https://wakatime.com/@704b19ea-6702-4e9f-b77c-981a547cae1e)---
 
----
 
 <div align="center">
-  ☕ <b>Life, Coffee, Chaos — Work Hard, Work Smart, Work Precise!</b>
+<b>Life 🌈, Coffee ☕💀, Chaos 🌪️⚡, Work Hard 🛠️💣, Work Smart 🧠⚙️, then DIE 💀☠️!</b>
+
 </div>
 
